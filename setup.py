@@ -5,7 +5,7 @@ import setuptools
 
 setuptools.setup(
     name="bugs",
-    version="0.0.1",
+    version="0.0.2",
     author="RA",
     author_email="numpde@null.net",
     keywords="python essentials",
